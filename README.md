@@ -93,6 +93,6 @@ Toate imaginile proiectului, documentația, modelele 3D, programarea și integra
 
 ## Resurse cu scop documentar:
 
-- [World Health Organization](https://www.who.int/);
-- [UNICEF](https://www.unicef.org/);
-- [ONU](https://www.un.org/).
+- [World Health Organization](https://www.who.int/)
+- [UNICEF](https://www.unicef.org/)
+- [ONU](https://www.un.org/)
