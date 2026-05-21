@@ -89,6 +89,8 @@ Toate imaginile proiectului, documentația, modelele 3D, programarea și integra
     - gestionarea cablurilor;
     - redactarea referatului științific.
 
+---
+
 ## Resurse cu scop documentar:
 
 - [World Health Organization](https://www.who.int/);
