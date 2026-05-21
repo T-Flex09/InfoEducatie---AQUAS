@@ -88,3 +88,9 @@ Toate imaginile proiectului, documentația, modelele 3D, programarea și integra
     - asamblarea robotului;
     - gestionarea cablurilor;
     - redactarea referatului științific.
+
+## Resurse cu scop documentar:
+
+- [World Health Organization](https://www.who.int/);
+- [UNICEF](https://www.unicef.org/);
+- [ONU](https://www.un.org/).
